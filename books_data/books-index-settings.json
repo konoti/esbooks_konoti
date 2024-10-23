@@ -1,6 +1,7 @@
 {
     "mappings": {
       "properties": {
+        "id": {"type": "keyword"},
         "__num_pages": {
           "type": "text",
           "fields": {
